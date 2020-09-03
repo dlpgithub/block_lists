@@ -1,6 +1,6 @@
-# A block list of domains used by Philips Hue Bridges
-# Last updated 9/03/2020
+# A pi-hole Blocklist of domains used by Philips Hue Bridges
+# Last updated 2020-09-03
 
 diagnostics.meethue.com
-
 www2.meethue.com
+dcp.dc1.philips.com
