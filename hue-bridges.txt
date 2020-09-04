@@ -6,3 +6,4 @@ www2.meethue.com
 dcp.dc1.philips.com
 www.signify.com
 fds.dc1.philips.com
+www.ecdinterface.philips.com
