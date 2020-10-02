@@ -1,0 +1,5 @@
+# A pi-hole Blocklist of domains used by Software
+# Last updated 2020-10-02
+
+# DropBox
+telemetry.dropbox.com
