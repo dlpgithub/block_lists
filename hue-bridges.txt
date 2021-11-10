@@ -8,3 +8,7 @@ www.signify.com
 fds.dc1.philips.com
 www.ecdinterface.philips.com
 www.philips-hue.com
+
+diag.meethue.com
+ws.meethue.com
+data.meethue.com
