@@ -1,14 +1,13 @@
 # A pi-hole Blocklist of domains used by Philips Hue Bridges
 # Last updated 2020-09-04
 
-diagnostics.meethue.com
-www2.meethue.com
+data.meethue.com
 dcp.dc1.philips.com
-www.signify.com
+diag.meethue.com
+diagnostics.meethue.com
 fds.dc1.philips.com
+provision.meethue.com
 www.ecdinterface.philips.com
 www.philips-hue.com
-
-diag.meethue.com
-ws.meethue.com
-data.meethue.com
+www.signify.com
+www2.meethue.com
