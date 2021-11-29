@@ -94,13 +94,13 @@ ypu.samsungelectronics.com
 zpu.samsungelectronics.com
 
 # Reviewed
-cdn.samsungcloudsolution.com // System update check
+cdn.samsungcloudsolution.com # System update check
 ipv4.connman.net
 log-ingestion-eu.samsungacr.com
 osb-apps.samsungqbe.com
 pool.ntp.org
 sas.samsungcloudsolution.com
-time.samsungcloudsolution.com // if blocked, services like Plex, YouTube and Amazon Video not working anymore
+time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore
 tvx.adgrx.com
 wwp.greenwichmeantime.com
 www.worldtime.com
