@@ -1,5 +1,5 @@
 # A pi-hole Blocklist of domains used by Samsung TVs
-# Last updated 2021-11-25
+# Last updated 2021-12-10
 
 #auth.samsungosp.com // if blocked, samsung accounts will fail to authenticate
 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
@@ -19,7 +19,6 @@ ads.samsungads.com
 amauthprd.samsungcloudsolution.com
 api-hub.samsungyosemite.com
 apu.samsungelectronics.com
-arteptweb-a.akamaihd.net
 auth.estat.com
 az43064.vo.msecnd.net
 bpu.samsungelectronics.com
@@ -94,6 +93,7 @@ ypu.samsungelectronics.com
 zpu.samsungelectronics.com
 
 # Reviewed
+#arteptweb-a.akamaihd.net # Needed for ARTE Content Servers
 cdn.samsungcloudsolution.com # System update check
 ipv4.connman.net
 log-ingestion-eu.samsungacr.com
