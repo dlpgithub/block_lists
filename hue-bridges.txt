@@ -12,3 +12,4 @@ www.ecdinterface.philips.com
 www.philips-hue.com
 www.signify.com
 www2.meethue.com
+mqtt.2030.ltsapis.goog
